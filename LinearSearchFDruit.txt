@@ -1,0 +1,6 @@
+﻿Build started at 14:54...
+1>------ Build started: Project: LinearSearchFruitsTask, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>LinearSearchFruitsTask -> C:\Users\Reva\Source\Repos\linear-search-fruits-exam-question-R-Tandale\LinearSearchFruitsTask\bin\Debug\net6.0\LinearSearchFruitsTask.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 14:54 and took 00.470 seconds ==========
